@@ -27,8 +27,7 @@
 <a href="https://linkedin.com/in/padmakarbagade2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/padmakarbagade2005" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/padmakarbagade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/padmakarbagade" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/_padmakar_bagade_7054/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/_padmakar_bagade_7054/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/padmakarbahvy9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/padmakarbahvy9" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/411062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="411062" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/profile/padmakarbahvy9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="padmakarbahvy9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
