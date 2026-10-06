@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Padmakar Bagade</h1>
 <h3 align="center">🚀 Open Source Contributor | GSSoC 2026 • 💻 Web Developer • AI/ML Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=padmakarbagade&label=Profile%20views&color=0e75b6&style=flat" alt="padmakarbagade" /> </p>
 
 - 🔭 I’m currently working on **Open Source Contributions & Personal Web Development Projects**
 
